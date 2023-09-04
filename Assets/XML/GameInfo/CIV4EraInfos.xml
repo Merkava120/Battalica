@@ -16,7 +16,7 @@
 	<EraInfos>
 		<EraInfo>
 			<Type>ERA_ANCIENT</Type>
-			<Description>TXT_KEY_ERA_ANCIENT</Description>
+			<Description>Interwar Era</Description>
 			<Strategy>TXT_KEY_ERA_ANCIENT_STRATEGY</Strategy>
 			<bNoGoodies>0</bNoGoodies>
 			<!-- advc.314 -->
@@ -77,7 +77,7 @@
 		</EraInfo>
 		<EraInfo>
 			<Type>ERA_CLASSICAL</Type>
-			<Description>TXT_KEY_ERA_CLASSICAL</Description>
+			<Description>Early World War II</Description>
 			<Strategy>TXT_KEY_ERA_CLASSICAL_STRATEGY</Strategy>
 			<bNoGoodies>0</bNoGoodies>
 			<!-- advc.314 -->
@@ -152,7 +152,7 @@
 		</EraInfo>
 		<EraInfo>
 			<Type>ERA_MEDIEVAL</Type>
-			<Description>TXT_KEY_ERA_MEDIEVAL</Description>
+			<Description>Mid World War II</Description>
 			<Strategy>TXT_KEY_ERA_MEDIEVAL_STRATEGY</Strategy>
 			<!-- advc.314: was 0 -->
 			<bNoGoodies>0</bNoGoodies>
@@ -235,7 +235,7 @@
 		</EraInfo>
 		<EraInfo>
 			<Type>ERA_RENAISSANCE</Type>
-			<Description>TXT_KEY_ERA_RENAISSANCE</Description>
+			<Description>Late WW2 / Postwar</Description>
 			<Strategy>TXT_KEY_ERA_RENAISSANCE_STRATEGY</Strategy>
 			<bNoGoodies>1</bNoGoodies>
 			<!-- advc.314 -->
@@ -318,7 +318,7 @@
 		</EraInfo>
 		<EraInfo>
 			<Type>ERA_INDUSTRIAL</Type>
-			<Description>TXT_KEY_ERA_INDUSTRIAL</Description>
+			<Description>Cold War</Description>
 			<Strategy>TXT_KEY_ERA_INDUSTRIAL_STRATEGY</Strategy>
 			<bNoGoodies>1</bNoGoodies>
 			<bNoAnimals>1</bNoAnimals>
@@ -398,7 +398,7 @@
 		</EraInfo>
 		<EraInfo>
 			<Type>ERA_MODERN</Type>
-			<Description>TXT_KEY_ERA_MODERN</Description>
+			<Description>Vietnam War</Description>
 			<Strategy>TXT_KEY_ERA_MODERN_STRATEGY</Strategy>
 			<bNoGoodies>1</bNoGoodies>
 			<bNoAnimals>1</bNoAnimals>
@@ -474,7 +474,7 @@
 		</EraInfo>
 		<EraInfo>
 			<Type>ERA_FUTURE</Type>
-			<Description>TXT_KEY_ERA_FUTURE</Description>
+			<Description>Modern Era</Description>
 			<Strategy>TXT_KEY_ERA_FUTURE_STRATEGY</Strategy>
 			<bNoGoodies>1</bNoGoodies>
 			<bNoAnimals>1</bNoAnimals>

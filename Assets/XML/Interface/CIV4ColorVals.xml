@@ -962,10 +962,10 @@
 			<fAlpha>1.00</fAlpha>
 		</ColorVal>
 		<ColorVal>
-			<Type>COLOR_PLAYER_LIGHT_BLACK_TEXT</Type>
-			<fRed>0.39</fRed>
-			<fGreen>0.39</fGreen>
-			<fBlue>0.47</fBlue>
+			<Type>COLOR_PLAYER_OLIVE_GREEN</Type>
+			<fRed>0.33</fRed>
+			<fGreen>0.42</fGreen>
+			<fBlue>0.18</fBlue>
 			<fAlpha>1.00</fAlpha>
 		</ColorVal>
 	</ColorVals>

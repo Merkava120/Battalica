@@ -7,6 +7,15 @@
 <Civ4UnitClassInfos xmlns="x-schema:CIV4UnitSchema.xml">
 	<UnitClassInfos>
 		<UnitClassInfo>
+			<Type>UNITCLASS_INFSQUAD_USA_1</Type>
+			<Description>U.S. Infantry Squad</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iInstanceCostModifier>0</iInstanceCostModifier>
+			<DefaultUnit>UNIT_INFSQUAD_USA_1</DefaultUnit>
+		</UnitClassInfo>
+		<UnitClassInfo>
 			<Type>UNITCLASS_LION</Type>
 			<Description>TXT_KEY_UNIT_LION</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
